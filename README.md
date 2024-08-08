@@ -1,4 +1,5 @@
 # stepik-restarter
+# НЕ АКТУАЛЬНО
 Расширение, позволяющее сбрасывать прогресс по заданиям на stepik.org
 <a href="url"><img src="https://github.com/KyouKiSu/stepik-restarter/blob/main/install_pictures/working1.png" width="200" align="right"></a>
 
